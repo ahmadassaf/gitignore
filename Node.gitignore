@@ -32,3 +32,5 @@ node_modules
 
 cache
 
+# Optional npm cache directory
+.npm
